@@ -287,7 +287,7 @@ namespace IRreceiver {
     //% button.fieldEditor="gridpicker"
     //% button.fieldOptions.columns=3
     //% button.fieldOptions.tooltips="false"
-    //% weight=50
+    //% weight=60
     export function onIrButton(
         button: IrButton,
         action: IrButtonAction,
@@ -314,7 +314,7 @@ namespace IRreceiver {
     //% button.fieldEditor="gridpicker"
     //% button.fieldOptions.columns=3
     //% button.fieldOptions.tooltips="false"
-    //% weight=51
+    //% weight=50
     export function onIrButton_white(
         button: IrButton_white,
         action: IrButtonAction,
