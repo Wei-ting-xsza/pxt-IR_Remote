@@ -314,7 +314,7 @@ namespace IRreceiver {
     //% button.fieldEditor="gridpicker"
     //% button.fieldOptions.columns=3
     //% button.fieldOptions.tooltips="false"
-    //% weight=50
+    //% weight=51
     export function onIrButton_white(
         button: IrButton_white,
         action: IrButtonAction,
