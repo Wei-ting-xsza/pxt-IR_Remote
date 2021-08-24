@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:Wei-ting-xsza/pxt-IR_receiver
+tools=github:Wei-ting-xsza/pxt-IRreceiver
 ```
